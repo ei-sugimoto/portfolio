@@ -1,0 +1,23 @@
+header.jumbotron-extend{
+    position: static;
+    height: 500px;
+    min-height: 100px;
+}
+header.jumbotron {
+    background-image: url("DSC01793.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+  }
+  hearder.container{
+    margin:600px;
+  }
+
+  nav.nav-extend{
+    display: inline-block;
+
+  }
+  .section{
+    padding-top:300px;
+  }
